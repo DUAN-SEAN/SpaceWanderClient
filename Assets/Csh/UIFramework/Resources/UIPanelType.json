@@ -1,0 +1,17 @@
+{
+"infoList":
+[
+{"panelTypeString":"LoginWindow",
+"path":"UIPanel/LoginWindow"},
+
+{"panelTypeString":"MainMenu",
+"path":"UIPanel/MainMenu"},
+
+{"panelTypeString":"SignupPanel",
+"path":"UIPanel/SignupPanel"},
+
+
+{"panelTypeString":"MessageWindow",
+"path":"UIPanel/MessageWindow"}
+]
+}I
