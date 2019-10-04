@@ -127,6 +127,10 @@
     <Compile Include="Assets\EasyTouchBundle\EasyTouchControls\Plugins\Editor\ETCJoystickInspector.cs" />
     <Compile Include="Assets\EasyTouchBundle\EasyTouchControls\Plugins\Editor\ETCMenu.cs" />
     <Compile Include="Assets\EasyTouchBundle\EasyTouchControls\Plugins\Editor\ETCTouchPadInspector.cs" />
+    <Compile Include="Assets\NiceTouch\Common\Scripts\MMTools\Attributes\Editor\HiddenAttributeDrawer.cs" />
+    <Compile Include="Assets\NiceTouch\Common\Scripts\MMTools\Attributes\Editor\InformationDrawer.cs" />
+    <Compile Include="Assets\NiceTouch\Common\Scripts\MMTools\Attributes\Editor\MoreMountainsMenuHelp.cs" />
+    <Compile Include="Assets\NiceTouch\Common\Scripts\MMTools\Attributes\Editor\ReadOnlyAttributeDrawer.cs" />
     <Compile Include="Assets\Yxh\FORGE3D\HelpMenu\Editor\F3DHelpMenu.cs" />
     <Compile Include="Assets\Yxh\FORGE3D\PoolManager\Editor\F3DPoolManagerEditor.cs" />
     <Compile Include="Assets\Yxh\FORGE3D\Sci-Fi Effects\Code\Turrets\Constructor\Editor\F3DTurretConstructorEditor.cs" />

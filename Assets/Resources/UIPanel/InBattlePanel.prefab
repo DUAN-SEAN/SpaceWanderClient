@@ -584,7 +584,7 @@ MonoBehaviour:
   isSwipeIn: 0
   isSwipeOut: 0
   showPSInspector: 1
-  showSpriteInspector: 0
+  showSpriteInspector: 1
   showEventInspector: 1
   showBehaviourInspector: 0
   showAxesInspector: 0
@@ -681,9 +681,9 @@ MonoBehaviour:
     showDirectInspector: 1
     showInertiaInspector: 0
     showSimulatinInspector: 1
-  normalSprite: {fileID: 21300006, guid: becfdeef1534456438d787466a94d207, type: 3}
+  normalSprite: {fileID: 21300008, guid: 358b5d9f23bc9413e87c9948acc67ee1, type: 3}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
-  pressedSprite: {fileID: 21300008, guid: becfdeef1534456438d787466a94d207, type: 3}
+  pressedSprite: {fileID: 21300008, guid: 95ce82ded150945d39dddcf017be2ce3, type: 3}
   pressedColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!222 &5675954091737213355
 CanvasRenderer:
@@ -713,7 +713,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300006, guid: becfdeef1534456438d787466a94d207, type: 3}
+  m_Sprite: {fileID: 21300008, guid: 358b5d9f23bc9413e87c9948acc67ee1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -758,7 +758,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: -141.9, y: 318}
-  m_SizeDelta: {x: 131, y: 131}
+  m_SizeDelta: {x: 82.53, y: 82.53}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &5675954092353247011
 MonoBehaviour:
@@ -901,9 +901,9 @@ MonoBehaviour:
     showDirectInspector: 0
     showInertiaInspector: 0
     showSimulatinInspector: 0
-  normalSprite: {fileID: 21300040, guid: 80275060b6e10684789abbc1214f0407, type: 3}
+  normalSprite: {fileID: 21300006, guid: 95ce82ded150945d39dddcf017be2ce3, type: 3}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
-  pressedSprite: {fileID: 21300042, guid: 80275060b6e10684789abbc1214f0407, type: 3}
+  pressedSprite: {fileID: 21300006, guid: 358b5d9f23bc9413e87c9948acc67ee1, type: 3}
   pressedColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!222 &5675954092353247010
 CanvasRenderer:
@@ -933,7 +933,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300040, guid: 80275060b6e10684789abbc1214f0407, type: 3}
+  m_Sprite: {fileID: 21300006, guid: 95ce82ded150945d39dddcf017be2ce3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
